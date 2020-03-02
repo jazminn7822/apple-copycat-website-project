@@ -1,0 +1,80 @@
+
+
+.small-image{
+width: 10px;
+}
+
+
+
+h5{
+  color:#248EFF;
+}
+
+
+h5:hover {
+ text-decoration: underline;
+}
+h6{
+  color:grey;
+}
+
+  .injected-text {
+    margin-bottom: -25px;
+    text-align: center;
+    font:arial;
+  }
+
+
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width:20px;
+    text-align: center;
+  }
+
+
+
+  .topred-box {
+    background-color: black;
+    color: #fff;
+    padding: 15px;
+    margin: -15px;
+    font-family:arial;
+  }
+
+  .middleblue-box {
+    background-color: black;
+    color: #fff;
+    padding: 30px;
+    margin: -15px;
+    /* was 20 before */
+  }
+
+  .third-blue-box{
+     background-color: red;
+    color: #fff;
+    padding: 30px;
+    margin: -15px;
+
+
+  }
+
+  .iphone-img {
+  display: block;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  height: 50%;
+  width: 100%;
+
+}
+
+
+  /*<!--This is the bottom text of the website apple.com-->*/
+  .bottom-text {
+    text-align: center;
+    font-family: arial;
+    font-size: 30px;
+  }
+
+
