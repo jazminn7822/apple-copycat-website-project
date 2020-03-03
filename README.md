@@ -1,4 +1,4 @@
-Link to site on Github Pages : https://jazminn7822.github.io/
+Link to site on Github Pages :https://jazminn7822.github.io/apple-copycat-website-project/
 
 Link to Google Doc Plan: https://docs.google.com/document/d/1NolK0Bfv_JR0-6qFxuyIhOL6sWUHsSWmfQpXWF1zS4M/edit?usp=sharing
 
